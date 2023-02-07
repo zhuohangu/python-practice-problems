@@ -6,7 +6,7 @@ def add_one_and_multiply(a, x):
     r = None
 
     ### DO NOT MODIFY THE FOLLOWING LINE!
-    return r
+    return (a + 1) * x
 
 
 #############################################################
