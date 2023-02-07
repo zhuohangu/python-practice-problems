@@ -8,7 +8,7 @@ def peep(p, e):
     """
 
     ### Replace pass with your code
-    pass
+    return (p + e * 10 + e * 100 + p * 1000) == (p + p * 10) ** e
 
 
 #############################################################
