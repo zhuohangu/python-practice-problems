@@ -7,7 +7,7 @@ def out_of_range(x, lb, ub):
     r = None
 
     ### DO NOT MODIFY THE FOLLOWING LINE!
-    return r
+    return x < lb or x > ub
 
 
 #############################################################
